@@ -4,5 +4,6 @@ public class DemoVidoeo{
 		int b = 67;
 		boolean pistonState = true;
 		System.out.println("I have new code");
+		int c = 3400;//number of seconds
 	}
 }
